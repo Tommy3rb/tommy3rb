@@ -15,7 +15,7 @@ I'm passionate about cybersecurity, networking, and understanding how systems wo
 - Cybersecurity Basics
 
 ---
-[![Tommy3rb's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommy3rb&show_icons=true&theme=gruvbox)](https://github.com/tommy3rb/github-readme-stats)
+[![Tommy3rb's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommy3rb&show_icons=true&theme=merko)](https://github.com/tommy3rb/github-readme-stats)
 ---
 Outside of tech
 🥊 Boxing | ♟️ Chess | 📚 Reading
